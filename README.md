@@ -1,0 +1,1 @@
+# make-pdfdiff-script
